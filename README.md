@@ -8,3 +8,7 @@ https://www.pianotiles.org/
 
 Desmos Graph by MansourQ:
 https://www.desmos.com/calculator/glwxz1ifyq
+
+
+
+https://pastebin.com/bTe3Hxdw
