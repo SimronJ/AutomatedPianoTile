@@ -1,5 +1,13 @@
+import java.awt.Robot;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        Robot robot = new Robot();
+
+        //sim implementation
+        SimWack simWack = new SimWack();
+        simWack.StartTheGame(robot);
+
     }
+
 }
